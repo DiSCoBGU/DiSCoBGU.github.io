@@ -1,1 +1,1 @@
-# DiSCoBGU.github.io
+# DiSCo - Data Science Community @ Ben Gurion University, Beersheva 

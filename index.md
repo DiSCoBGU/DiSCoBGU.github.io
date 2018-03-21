@@ -16,3 +16,10 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 * Participate in online competitions and practice what we learned
 * Form groups and networks for future collaborations
 * Have fun! :)
+
+# Events
+
+## First meetup on 25th March
+* Introduction and Goal of DiSCo Community
+* Insight to Data Science Problems & Preparation to compete 
+* [Link to invitation](https://github.com/DiSCoBGU/DiSCo-init/blob/master/README.md) 

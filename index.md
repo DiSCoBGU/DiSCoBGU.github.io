@@ -1,4 +1,4 @@
-# DiSCo - Data Science Community @ Ben Gurion University, Beersheva 
+
 ![Logo](https://static.wixstatic.com/media/5648c5_44094fd529744e0b917fabeb2a052b2c~mv2.png/v1/crop/x_0,y_123,w_637,h_425/fill/w_213,h_142,al_c,usm_0.66_1.00_0.01/5648c5_44094fd529744e0b917fabeb2a052b2c~mv2.png)
 
 # Who We Are

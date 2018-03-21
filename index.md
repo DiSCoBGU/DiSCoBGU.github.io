@@ -28,6 +28,7 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 
 ## Data Science / Machine Learning Podcasts
 
+* Unsupervised (in Hebrew) [Link](http://www.unsupervised-podcast.xyz/)
 * Learning Machines 101 [Link](http://www.learningmachines101.com/)
 * The Talking Machines [Link](https://www.thetalkingmachines.com/)
 * Data Skeptic [Link](https://dataskeptic.com/podcast)

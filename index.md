@@ -1,5 +1,5 @@
 
-![Logo](https://static.wixstatic.com/media/5648c5_44094fd529744e0b917fabeb2a052b2c~mv2.png/v1/crop/x_0,y_123,w_637,h_425/fill/w_213,h_142,al_c,usm_0.66_1.00_0.01/5648c5_44094fd529744e0b917fabeb2a052b2c~mv2.png)
+![Logo](https://static.wixstatic.com/media/5648c5_44094fd529744e0b917fabeb2a052b2c~mv2.png/v1/crop/x_0,y_123,w_637,h_425/fill/w_213,h_142,al_c,usm_0.66_1.00_0.01/5648c5_44094fd529744e0b917fabeb2a052b2c~mv2.png?style=centerme)
 
 # Who We Are
 DiSCo is a data science community at Ben-Gurion University of the Negev. We are a community with a goal of overall development and growth of students and professional enthusiasts in Be’er-Sheva in areas of data mining, data science, and machine learning. DiSCo meetups act as a platform to provide hands-on experience in data science, tools and techniques, while networking and having fun. We are all about learning, snacks and friendship.

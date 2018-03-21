@@ -3,3 +3,6 @@ theme: jekyll-theme-cayman
 
 title: DiSCo - Data Science Community @ Ben Gurion University, Beersheva
 description: Learn, Practice, Teamup, Compete and Have Fun...! 
+
+# Google Analytics
+google_analytics: UA-116195310-1

@@ -23,3 +23,14 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 * Introduction and Goal of DiSCo Community
 * Insight to Data Science Problems & Preparation to compete 
 * [Link to invitation](https://github.com/DiSCoBGU/DiSCo-init/blob/master/README.md) 
+
+# Resources
+
+## Data Science / Machine Learning Podcasts
+
+* Learning Machines 101 [Link](http://www.learningmachines101.com/)
+* The Talking Machines [Link](https://www.thetalkingmachines.com/)
+* Data Skeptic [Link](https://dataskeptic.com/podcast)
+* Linear Digressions [Link](http://lineardigressions.com/)
+* This Week in ML & AI [Link](https://twimlai.com/shows/)
+

@@ -28,26 +28,29 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 
 # Resources
 <div align="center">
-<div style="display: inline-block;float:left;">
+  
+    <div style="display: inline-block;float:left;">
 
-<h2> Data Science / Machine Learning Podcasts </h2>
-<ul>
-<li> Unsupervised (in Hebrew) [Link](http://www.unsupervised-podcast.xyz/)
-<li> Learning Machines 101 [Link](http://www.learningmachines101.com/)
-<li> The Talking Machines [Link](https://www.thetalkingmachines.com/)
-<li> Data Skeptic [Link](https://dataskeptic.com/podcast)
-<li> Linear Digressions [Link](http://lineardigressions.com/)
-<li> This Week in ML & AI [Link](https://twimlai.com/shows/)
-  </ul>
-</div>
+    <h2> Data Science / Machine Learning Podcasts </h2>
+    <ul>
+    <li> Unsupervised (in Hebrew) [Link](http://www.unsupervised-podcast.xyz/)
+    <li> Learning Machines 101 [Link](http://www.learningmachines101.com/)
+    <li> The Talking Machines [Link](https://www.thetalkingmachines.com/)
+    <li> Data Skeptic [Link](https://dataskeptic.com/podcast)
+    <li> Linear Digressions [Link](http://lineardigressions.com/)
+    <li> This Week in ML & AI [Link](https://twimlai.com/shows/)
+      </ul>
 
-<div style="display: inline-block;float:right;">
-<h2> Blogs </h2>
-<ul>
-<li> No Free Hunch [Link](http://blog.kaggle.com/)
-<li>
-  </ul>
-</div>
+    </div>
+
+    <div style="display: inline-block;float:right;">
+    <h2> Blogs </h2>
+    <ul>
+    <li> No Free Hunch [Link](http://blog.kaggle.com/)
+    <li>
+      </ul>
+    </div>
+
 </div>
 
 # Contact

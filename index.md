@@ -43,4 +43,4 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 * Mail: disco.bgu@gmail.com
 * Facebook Group [Link](https://www.facebook.com/groups/discobgu)
 * GitHub Repos [Link](https://github.com/DiSCoBGU/)
-* **Become a member**: [Registration Form](tinyurl.com/discobgu)
+* **Become a member**: [Registration Form](https://tinyurl.com/discobgu)

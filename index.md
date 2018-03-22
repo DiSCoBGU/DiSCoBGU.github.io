@@ -27,6 +27,8 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 * [Link to invitation](https://github.com/DiSCoBGU/DiSCo-init/blob/master/README.md) 
 
 # Resources
+<div align="center">
+<div style="display: inline-block">
 
 ## Data Science / Machine Learning Podcasts
 
@@ -36,6 +38,14 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 * Data Skeptic [Link](https://dataskeptic.com/podcast)
 * Linear Digressions [Link](http://lineardigressions.com/)
 * This Week in ML & AI [Link](https://twimlai.com/shows/)
+</div>
+
+<div style="display: inline-block">
+## Blogs
+* No Free Hunch [Link](http://blog.kaggle.com/)
+* 
+</div>
+</div>
 
 # Contact
 

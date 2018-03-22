@@ -27,10 +27,8 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 * [Link to invitation](https://github.com/DiSCoBGU/DiSCo-init/blob/master/README.md) 
 
 # Resources
-<div align="center">
-  
-    <div style="display: inline-block;float:left;">
-
+<table>
+  <tr><td>
     <h2> Data Science / Machine Learning Podcasts </h2>
     <ul>
     <li> Unsupervised (in Hebrew) [Link](http://www.unsupervised-podcast.xyz/)
@@ -41,8 +39,8 @@ The motivation of this club is to serve as a platform for BGU data science enthu
     <li> This Week in ML & AI [Link](https://twimlai.com/shows/)
       </ul>
 
-    </div>
-
+    
+<td>
     <div style="display: inline-block;float:right;">
     <h2> Blogs </h2>
     <ul>
@@ -51,7 +49,7 @@ The motivation of this club is to serve as a platform for BGU data science enthu
       </ul>
     </div>
 
-</div>
+</table>
 
 # Contact
 

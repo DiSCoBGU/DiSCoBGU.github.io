@@ -28,32 +28,16 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 
 # Resources
 
-<table>
-<tr><td>
 
-## Data Science / Machine Learning Podcasts
+|  ## Data Science / Machine Learning Podcasts | ## Blogs | 
+| --------| --------| 
+| * Unsupervised (in Hebrew) [Link](http://www.unsupervised-podcast.xyz/) | * No Free Hunch [Link](http://blog.kaggle.com/) | 
+| * Learning Machines 101 [Link](http://www.learningmachines101.com/) | | 
+| * The Talking Machines [Link](https://www.thetalkingmachines.com/) | | 
+| * Data Skeptic [Link](https://dataskeptic.com/podcast) | | 
+| * Linear Digressions [Link](http://lineardigressions.com/) | | 
+| * This Week in ML & AI [Link](https://twimlai.com/shows/) | | 
 
-</td><td>
-
-## Blogs 
-
-</td></tr>
-<tr><td>
-
-* Unsupervised (in Hebrew) [Link](http://www.unsupervised-podcast.xyz/)
-* Learning Machines 101 [Link](http://www.learningmachines101.com/)
-* The Talking Machines [Link](https://www.thetalkingmachines.com/)
-* Data Skeptic [Link](https://dataskeptic.com/podcast)
-* Linear Digressions [Link](http://lineardigressions.com/)
-* This Week in ML & AI [Link](https://twimlai.com/shows/)
-
-</td>
-<td>
-
-* No Free Hunch [Link](http://blog.kaggle.com/)
-
-</td></tr>
-</table>
 
 
 # Contact

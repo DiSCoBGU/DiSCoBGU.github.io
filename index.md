@@ -32,6 +32,11 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 <tr><td>
 
 ## Data Science / Machine Learning Podcasts
+</td><td>
+
+## Blogs 
+</td></tr>
+<tr><td>
 
 * Unsupervised (in Hebrew) [Link](http://www.unsupervised-podcast.xyz/)
 * Learning Machines 101 [Link](http://www.learningmachines101.com/)
@@ -43,7 +48,6 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 </td>
 <td>
 
-## Blogs 
 * No Free Hunch [Link](http://blog.kaggle.com/)
 
 </td>

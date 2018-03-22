@@ -28,7 +28,8 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 
 # Resources
 
-{table-plus:border=0|class=''}
+{table-plus:border=0}
+
 |  **Data Science / Machine Learning Podcasts** |    **Blogs**   | 
 | --------| --------| 
 |  * Unsupervised (in Hebrew) [Link](http://www.unsupervised-podcast.xyz/) | * No Free Hunch [Link](http://blog.kaggle.com/) | 
@@ -37,6 +38,7 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 |  * Data Skeptic [Link](https://dataskeptic.com/podcast) | | 
 |  * Linear Digressions [Link](http://lineardigressions.com/) | | 
 |  * This Week in ML & AI [Link](https://twimlai.com/shows/) | | 
+
 {table-plus}
 
 

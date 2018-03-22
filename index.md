@@ -27,28 +27,26 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 * [Link to invitation](https://github.com/DiSCoBGU/DiSCo-init/blob/master/README.md) 
 
 # Resources
+
 <table>
-  <tr><td>
-    <h2> Data Science / Machine Learning Podcasts </h2>
-    <ul>
-    <li> Unsupervised (in Hebrew) [Link](http://www.unsupervised-podcast.xyz/)
-    <li> Learning Machines 101 [Link](http://www.learningmachines101.com/)
-    <li> The Talking Machines [Link](https://www.thetalkingmachines.com/)
-    <li> Data Skeptic [Link](https://dataskeptic.com/podcast)
-    <li> Linear Digressions [Link](http://lineardigressions.com/)
-    <li> This Week in ML & AI [Link](https://twimlai.com/shows/)
-      </ul>
+<tr><td>
 
-    
+## Data Science / Machine Learning Podcasts
+
+* Unsupervised (in Hebrew) [Link](http://www.unsupervised-podcast.xyz/)
+* Learning Machines 101 [Link](http://www.learningmachines101.com/)
+* The Talking Machines [Link](https://www.thetalkingmachines.com/)
+* Data Skeptic [Link](https://dataskeptic.com/podcast)
+* Linear Digressions [Link](http://lineardigressions.com/)
+* This Week in ML & AI [Link](https://twimlai.com/shows/)
+
+</td>
 <td>
-    <div style="display: inline-block;float:right;">
-    <h2> Blogs </h2>
-    <ul>
-    <li> No Free Hunch [Link](http://blog.kaggle.com/)
-    <li>
-      </ul>
-    </div>
 
+## Blogs 
+* No Free Hunch [Link](http://blog.kaggle.com/)
+
+</td>
 </table>
 
 # Contact

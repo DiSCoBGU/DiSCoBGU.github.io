@@ -28,7 +28,7 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 
 # Resources
 <div align="center">
-<div style="display: inline-block">
+<div style="display: inline-block;float:left;">
 
 ## Data Science / Machine Learning Podcasts
 
@@ -40,7 +40,7 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 * This Week in ML & AI [Link](https://twimlai.com/shows/)
 </div>
 
-<div style="display: inline-block">
+<div style="display: inline-block;float:right;">
 ## Blogs
 * No Free Hunch [Link](http://blog.kaggle.com/)
 * 

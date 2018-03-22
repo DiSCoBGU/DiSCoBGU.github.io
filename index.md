@@ -32,9 +32,11 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 <tr><td>
 
 ## Data Science / Machine Learning Podcasts
+
 </td><td>
 
 ## Blogs 
+
 </td></tr>
 <tr><td>
 
@@ -50,8 +52,9 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 
 * No Free Hunch [Link](http://blog.kaggle.com/)
 
-</td>
+</td></tr>
 </table>
+
 
 # Contact
 

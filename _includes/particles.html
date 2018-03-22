@@ -1,3 +1,8 @@
 <div id="particles-js"></div>
 
 <script src="https://github.com/VincentGarreau/particles.js/raw/master/particles.min.js"></script>
+
+/* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
+particlesJS.load('particles-js', 'particles.json', function() {
+  console.log('callback - particles.js config loaded');
+});

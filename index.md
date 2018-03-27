@@ -29,6 +29,10 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 
 # Events
 
+**Haven't Regestered The Membership Yet ?**
+[Link](http://tinyurl.com/discobgu) to the Regesteration Form
+
+
 ## First meetup on 25th March <img src="https://cdn1.iconfinder.com/data/icons/big-business/512/Calendar_Clock-32.png">
 * Introduction and Goal of DiSCo Community
 * Insight to Data Science Problems & Preparation to compete 

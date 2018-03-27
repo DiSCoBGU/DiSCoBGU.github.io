@@ -3,6 +3,13 @@
 
 <div id="particles-js"></div>
 
+
+# Welcome
+
+Welcome to DiSCo Github page!
+Here you can find relevant links and codes for our meetups.
+Good luck to all of us!
+
 # Who We Are
 DiSCo is a data science community at Ben-Gurion University of the Negev. We are a community with a goal of overall development and growth of students and professional enthusiasts in Be’er-Sheva in areas of data mining, data science, and machine learning. DiSCo meetups act as a platform to provide hands-on experience in data science, tools and techniques, while networking and having fun. We are all about learning, snacks and friendship.
 
@@ -19,12 +26,18 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 * Form groups and networks for future collaborations
 * Have fun! :)
 
+
 # Events
 
-## First meetup on 25th March
+## First meetup on 25th March <img src="https://cdn1.iconfinder.com/data/icons/big-business/512/Calendar_Clock-32.png">
 * Introduction and Goal of DiSCo Community
 * Insight to Data Science Problems & Preparation to compete 
 * [Link to the event page](https://discobgu.github.io/DiSCo-init/) 
+
+## Second meetup on 8th April <img src="https://cdn1.iconfinder.com/data/icons/big-business/512/Calendar_Clock-32.png">
+* Data preprocessing & Feature engineering
+* Improving the regression model
+* [Link to the event page](https://discobgu.github.io/Preprocessing/)
 
 # Resources
 
@@ -37,6 +50,10 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 |  * Linear Digressions [Link](http://lineardigressions.com/) | | 
 |  * This Week in ML & AI [Link](https://twimlai.com/shows/) | | 
 
+**Books**
+* [Link](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939) Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow by Sebastian Raschka (highly recommended book) <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/book-24.png">
+* [Link](http://www-bcf.usc.edu/~gareth/ISL/) An Introduction to Statistical Learning with Applications in R (recommended book)
+* [List of Free Data Science Books](https://github.com/DiSCoBGU/DiSCo-init/blob/master/free-data-science-books.md#free-data-science-books)
 
 # Contact
 

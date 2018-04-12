@@ -43,6 +43,12 @@ The motivation of this club is to serve as a platform for BGU data science enthu
 * Improving the regression model
 * [Link to the event page](https://discobgu.github.io/Preprocessing/)
 
+## Third meetup on 24th April <img src="https://cdn1.iconfinder.com/data/icons/big-business/512/Calendar_Clock-32.png">
+* Practice what we already discuss
+* Improving the regression model (parameter tuning)
+* [Link to the event page](https://discobgu.github.io/Preprocessing-Practice/)
+
+
 # Resources
 
 |  **Data Science / Machine Learning Podcasts** |    **Blogs**   | 
